@@ -37,7 +37,7 @@ $ yarn dev
 
 ### Como acessar
 
- - Acessando o frontend [localhost:3080](http://localhost:3080)
+ - Acessando o frontend [localhost:3000](http://localhost:3000)
  - Acessando o backend [localhost:8080](http://localhost:8080)
 
   
